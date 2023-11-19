@@ -1,4 +1,4 @@
-# proper [![Build Status](https://travis-ci.com/slack-io/proper.svg?branch=master)](https://travis-ci.com/slack-io/proper) [![Go Report Card](https://goreportcard.com/badge/github.com/slack-io/proper)](https://goreportcard.com/report/github.com/slack-io/proper) [![GoDoc](https://godoc.org/github.com/slack-io/proper?status.svg)](https://godoc.org/github.com/slack-io/proper) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# proper [![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](https://github.com/slack-io/proper/actions) [![Go Report Card](https://goreportcard.com/badge/github.com/slack-io/proper)](https://goreportcard.com/report/github.com/slack-io/proper) [![GoDoc](https://godoc.org/github.com/slack-io/proper?status.svg)](https://godoc.org/github.com/slack-io/proper) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A `map[string]string` decorator offering a collection of helpful functions to extract the values in different types
 
