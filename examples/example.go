@@ -14,7 +14,6 @@ func main() {
 	parameters["string"] = "value"
 
 	properties := proper.NewProperties(parameters)
-
 	fmt.Println(properties.BooleanParam("boolean", false))
 	fmt.Println(properties.FloatParam("float", 0))
 	fmt.Println(properties.IntegerParam("integer", 0))
